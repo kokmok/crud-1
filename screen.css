@@ -1,0 +1,469 @@
+/* 20 21 et 22 pouces */
+@media screen and (max-width: 1680px)
+{
+    .wrapper
+    {
+        width: 1680px;
+    }
+    .txt-home
+    {
+        left: 16%;
+        top: 70%;
+    }
+    .left-pr
+    {
+        top: 37%;
+    }
+    .pic-pr {
+        width: 435px;
+        height: 430px;
+        top: 37%;
+    }
+    .contact_form
+    {
+        top: 34%;
+    }
+}
+/* 20 21 et 22 pouces */
+@media screen and (max-width: 1600px)
+{
+    .wrapper
+    {
+        /*max-width: 2000px;*/
+        width: 1600px;
+    }
+    .fr-home
+    {
+        margin-right: 35px;
+        width: 510px;
+    }
+    .eng-home
+    {
+        width: 510px;
+    }
+    .txt-home
+    {
+        left: 14%;
+        top: 69%;
+    }
+    .pic-pr
+    {
+        width: 450px;
+        height: 430px;
+    }
+    .right-pr
+    {
+        margin-right: -4em;
+    }
+    .first_skill
+    {
+        float: left;
+        width: 629px;
+    }
+    .second_skill
+    {
+        margin-left: 41em;
+        width: 580px;
+    }
+    .center
+    {
+        width: 80%;
+    }
+    .pic
+    {
+        top: 32%;
+    }
+    .pic_1
+    {
+        left: 6%;
+    }
+    .pic_2
+    {
+        left: 24%;
+    }
+    .pic_3
+    {
+        left: 42%;
+    }
+    .pic_4
+    {
+        left: 60%;
+    }
+    .pic_5
+    {
+        left: 78%;
+    }
+    .work_txt
+    {
+        left: 25%;
+    }
+    .contact_form
+    {
+        top: 34%;
+    }
+}
+/* 17 et 19 pouces */
+@media screen and (max-width: 1440px)
+{
+    .wrapper
+    {
+        width: 1440px;
+    }
+    .box-home .content-home p
+    {
+        font-size: 14px;
+    }
+    .txt-home
+    {
+        top: 71%;
+        left: 13.9%;
+        width: 66em;
+    }
+    .left-pr
+    {
+        top: 34%;
+        left: 11%;
+    }
+    .pic-pr
+    {
+        top: 34%;
+    }
+    .skillbox
+    {
+        width: 78%;
+    }
+    .pic_1
+    {
+        left: 3%;
+    }
+    .pic_2
+    {
+        left: 22%;
+    }
+    .pic_3
+    {
+        left: 41%;
+    }
+    .pic_4
+    {
+        left: 60%;
+    }
+    .pic_5
+    {
+        left: 79%;
+    }
+    .work_txt
+    {
+        left: 22%;
+    }
+    .contact_form
+    {
+        top: 31%;
+    }
+}
+@media screen and (max-width: 1366px)
+{
+    .wrapper
+    {
+        width: 1366px;
+    }
+    .container-home
+    {
+        top: 16%;
+    }
+    .box-home .content-home p
+    {
+        font-size: 14px;
+    }
+    .txt-home
+    {
+        top: 71%;
+        left: 13.9%;
+        width: 66em;
+    }
+    .pic-pr
+    {
+        top: 29%;
+    }
+    .left-pr
+    {
+        top: 29%;
+    }
+    .first_skill
+    {
+        width: 600px;
+    }
+    .second_skill
+    {
+        margin-left: 37.5em;
+    }
+    .work_txt
+    {
+        top: 71%;
+    }
+    .contact_form
+    {
+        top: 30%;
+    }
+    input[type="text"], select, textarea
+    {
+        margin-top: -5px;
+        margin-bottom: 4px;
+    }
+}
+/* 15.4 pouces */
+@media screen and (max-width: 1280px)
+{
+    .wrapper
+    {
+        /*max-width: 2000px;*/
+        width: 1280px;
+    }
+    .container-home
+    {
+        left: 13%;
+    }
+    .box-home .content-home p
+    {
+        font-size: 14px;
+    }
+    .txt-home {
+        top: 71%;
+        left: 11%;
+        width: 66em;
+    }
+    .pic-pr
+    {
+        top: 37%;
+        left: 55.3%;
+    }
+    .left-pr
+    {
+        top: 37%;
+        left: 7%;
+    }
+    .center {
+        width: 80%;
+        top: 58%;
+    }
+    .skillbox
+    {
+        width: 70%;
+    }
+    .second_skill {
+        margin-left: 36em;
+    }
+    .pic
+    {
+        top: 36%;
+        width: 220px;
+        height: 220px;
+    }
+    .pic_1
+    {
+        left: 0.7%;
+    }
+    .pic_2
+    {
+        left: 21%;
+    }
+    .pic_3
+    {
+        left: 42%;
+    }
+    .pic_4
+    {
+        left: 62%;
+    }
+    .pic_5
+    {
+        left: 82%;
+    }
+    .work_txt
+    {
+        left: 19%;
+        top: 73%;
+    }
+    .contact_form
+    {
+        top: 37.5%;
+    }
+}
+/* 15 pouces */
+@media screen and (max-width: 1024px)
+{
+    .wrapper
+    {
+        width: 1024px;
+    }
+    .container-home
+    {
+        width: 96%;
+        top: 16%;
+        left: 2%;
+    }
+    .box-home .content-home p
+    {
+        font-size: 14px;
+    }
+    .container-home .box-home
+    {
+        height: 350px;
+    }
+    .fr-home {
+        /*margin-right: 4em;*/
+        width: 400px;
+        height: 47px;
+        font-size: 13px;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .eng-home {
+        width: 400px;
+        margin-right: 74px;
+        height: 47px;
+        font-size: 13px;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .txt-home {
+        top: 73%;
+        left: 3.5%;
+        width: 62em;
+    }
+    .left-pr
+    {
+        width: 330px;
+        font-size: 12px;
+        top: 30%;
+        left: 10%;
+    }
+    .pic-pr
+    {
+        top: 34%;
+        left: 58%;
+        width: 300px;
+        height: 300px;
+    }
+    .pic
+    {
+        width: 190px;
+        height: 190px;
+        top: 35% !important;
+    }
+    .pic_1
+    {
+        left: 1%;
+    }
+    .pic_2
+    {
+        left: 21%;
+    }
+    .pic_3
+    {
+        left: 41%;
+    }
+    .pic_4
+    {
+        left: 61%;
+    }
+    .pic_5
+    {
+        left: 81%;
+    }
+    .work_txt {
+        left: 11%;
+    }
+    .contact_form
+    {
+        top: 30.5%;
+    }
+    .first_skill
+    {
+        width: 400px !important;
+    }
+    .second_skill
+    {
+        width: 400px !important;
+        margin-left: 27em !important;
+    }
+    .skillbox
+    {
+        width: 87%;
+    }
+}
+@media screen and (max-width: 960px)
+{
+    .wrapper
+    {
+        width: 960px;
+    }
+    ul
+    {
+        top: 23%;
+    }
+    .center
+    {
+        top: 60.5%;
+    }
+    .box-home .content-home p
+    {
+        font-size: 12px;
+    }
+    .pic-pr
+    {
+        top: 35%;
+    }
+    .left-pr
+    {
+        top: 31%;
+    }
+    .txt-home
+    {
+        width: 58em;
+    }
+    .second_skill
+    {
+        margin-left: 26em;
+    }
+    .skillbox
+    {
+        width: 73%;
+    }
+    .pic_1
+    {
+        left: 0.3%;
+    }
+    .pic_2
+    {
+        left: 20.3%;
+    }
+    .pic_3
+    {
+        left: 40.3%;
+    }
+    .pic_4
+    {
+        left: 60.3%;
+    }
+    .pic_5
+    {
+        left: 80.3%;
+    }
+    .work_txt
+    {
+        left: 8.5%;
+        top: 70%;
+    }
+    .contact_form form textarea#subject
+    {
+        height: 115px !important;
+    }
+    {
+        height: 115px;
+    }
+    .contact_form
+    {
+        top: 32.5%;
+    }
+}
