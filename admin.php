@@ -100,8 +100,8 @@ function displayProtectedContent($db){
     formTableHome($lines);
 //UPDATE
     if ($action== "update" ){
-
-        formHome();
+        $titre = "dkigdg";
+        formHome($titre);
         $titre = filter_input(INPUT_POST,"titre",FILTER_SANITIZE_STRING);
         $texte = filter_input(INPUT_POST,"texte",FILTER_SANITIZE_STRING);
         $slug = filter_input(INPUT_POST, "slug", FILTER_SANITIZE_STRING);
