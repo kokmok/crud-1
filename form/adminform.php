@@ -19,12 +19,12 @@ echo '<!doctype html>
     </head>
     <body class="#" style="font-family: Poppins, sans-serif; background: #34495e;">';
 
-function formHome(){
+function formHome($titre=""){
     echo '<form method="post" action="">';
 
     echo '<div class="form-group">';
     echo '<label for="titre" style="color: #ffffff">Titre</label>';
-    echo '<input type="text" name="titre" class="form-control">';
+    echo '<input type="text" name="titre" value="'.$titre.'" class="form-control">';
     echo '</div>';
 
     echo '<div class="form-group">';
